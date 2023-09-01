@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP Integrador</string>
+    <string name="str_same">Las cadenas de texto son IGUALES</string>
+    <string name="str_different">Las cadenas de texto son DISTINTAS</string>
+    <string name="str_void">¡Completa ambos textos para comparar!</string>
+    <string name="editText1_hint">Introduce el Texto 1</string>
+    <string name="editText2_hint">Introduce el Texto 2</string>
+    <string name="compare_button">Comparar</string>
+    <string name="text_view_initial"></string>
+</resources>
